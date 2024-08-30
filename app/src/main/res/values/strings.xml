@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Индекс массы тела</string>
+    <string name="enter_height">Введите рост (м)</string>
+    <string name="enter_weight">Введите вес (кг)</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="bmi_result">Ваш ИМТ: %.2f</string>
+    <string name="advice_underweight">Рекомендуем набрать вес…</string>
+    <string name="advice_normal">Рекомендуем поддержать вес…</string>
+    <string name="advice_overweight">Рекомендуем снижать вес…</string>
+</resources>
